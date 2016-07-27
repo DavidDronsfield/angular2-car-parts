@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { CarPart } from 'app/car-part';
-import { CARPARTS } from 'app/mocks';
+import { CarPart } from './car-part';
+import { CARPARTS } from './mocks';
 
 @Component({
   selector: 'car-parts',

@@ -1,4 +1,4 @@
-import { CarPart } from 'app/car-part';
+import { CarPart } from './car-part';
 
 export const CARPARTS: CarPart[] = [
 	{

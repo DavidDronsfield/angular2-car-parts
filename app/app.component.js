@@ -9,7 +9,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
     if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
 };
 var core_1 = require('@angular/core');
-var car_parts_component_1 = require('app/car-parts.component');
+var car_parts_component_1 = require('./car-parts.component');
 var AppComponent = (function () {
     function AppComponent() {
         this.title = 'Vehicle Parts';
